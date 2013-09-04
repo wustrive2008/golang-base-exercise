@@ -1,5 +1,6 @@
 package main
 
+//测试channels
 import (
 	"fmt"
 )
