@@ -1,4 +1,4 @@
-golangtest
+golang-base-exercise
 ==========
 
 Go语言学习笔记
